@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mobile_display_metrics_array">
+        <item>480*800(hdpi)</item>
+        <item>720*1280(xhdpi)</item>
+        <item>1080*1920(xxhdpi)</item>
+        <item>1440*2560(560dpi)</item>
+    </array>
+</resources>

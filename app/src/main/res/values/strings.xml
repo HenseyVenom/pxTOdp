@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pxTOdp</string>
+    <string name="px_uint">(px)</string>
+    <string name="dp_valus_with_unit">转换结果:%1$s(dp)</string>
+    <string name="choose_display">请选择分辨率:</string>
+    <string name="please_input_px_value">请输入像素值:</string>
+    <string name="loading">数据加载中</string>
+</resources>
